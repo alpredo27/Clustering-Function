@@ -1,7 +1,7 @@
 # Clustering-Function-
 
 ### Objective:
-   Create a python function that (1.) makes use of the approriate clustering algorithm based on the data types of the input dataframe, and  (2.) outputs the optimal count of cluster, assigned cluster of each observation, and centroids of each cluster.
+   Create a python function that (1.) makes use of the approriate clustering algorithm based on the data types of the input dataframe, and  (2.) outputs the optimal count of cluster, assigned cluster for each observation, and centroids of each cluster.
 
 ### Details:
    #### Data Input: 
